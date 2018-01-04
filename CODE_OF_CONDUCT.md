@@ -1,5 +1,5 @@
 # Contributor Covenant Code of Conduct
-I used the default template @mihaiep
+I used the default template. If you have questions contact  [@mihaiep](mihai.enepietrosanu@gmail.com)
 
 ## Our Pledge
 
