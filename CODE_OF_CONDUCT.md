@@ -1,5 +1,5 @@
 # Contributor Covenant Code of Conduct
-I used the default template. If you have questions contact  fiel an [issue](https://github.com/mihaiep/Training_demo/issues)
+I used the default template. If you have questions contact  fiel an [issue](https://github.com/mihaiep/Training_demo/issues).
 
 ## Our Pledge
 
